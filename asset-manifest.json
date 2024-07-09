@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Linkdin-React/static/css/main.80f604c0.css",
+    "main.js": "/Linkdin-React/static/js/main.74417a97.js",
+    "static/js/453.0a36081d.chunk.js": "/Linkdin-React/static/js/453.0a36081d.chunk.js",
+    "index.html": "/Linkdin-React/index.html",
+    "main.80f604c0.css.map": "/Linkdin-React/static/css/main.80f604c0.css.map",
+    "main.74417a97.js.map": "/Linkdin-React/static/js/main.74417a97.js.map",
+    "453.0a36081d.chunk.js.map": "/Linkdin-React/static/js/453.0a36081d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80f604c0.css",
+    "static/js/main.74417a97.js"
+  ]
+}
